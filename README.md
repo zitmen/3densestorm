@@ -6,9 +6,9 @@ Consult the examples to see how to use this program. 3denseSTORM is compatible w
 
 ----
 
-**Feature suggestions** *(not planned)*
+**Feature to add**
 
 * Mapping of channels in biplane mode through a transformation matrix
 * Automated calibration:
-    * Homotopy estimator for biplane
+    * Homotography estimator for biplane
     * Estimation of real psf from a calibration stack
