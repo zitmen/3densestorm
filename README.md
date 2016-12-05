@@ -6,6 +6,10 @@ Consult the examples to see how to use this program. 3denseSTORM is compatible w
 
 ----
 
+My Ph.D. thesis [Computational methods in single molecule localization microscopy](https://www.researchgate.net/publication/311426573_Computational_methods_in_single_molecule_localization_microscopy) now available. It contains detailed description of the algorithm and it's implementation.
+
+----
+
 **Feature to add**
 
 * Mapping of channels in biplane mode through a transformation matrix
